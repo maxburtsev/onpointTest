@@ -1,0 +1,19 @@
+{
+  "name": "kvokka.com",
+  "description": "",
+  "authors": [
+    "dsv555 <dsv.95@yandex.ru>"
+  ],
+  "license": "ISC",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  },
+  "devDependencies": {
+  }
+}
