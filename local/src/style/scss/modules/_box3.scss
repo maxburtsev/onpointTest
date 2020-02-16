@@ -23,8 +23,14 @@
     width: calc(100% - 18px);
     height: 11px;
     margin: 0 9px;
-    background-color: #d1eaff;
+    background-color: #5c5c5c;
     z-index: 1;
+}
+.fill {
+    display: block;
+    width: 0;
+    height: 100%;
+    background-color: #d1eaff;
 }
 .range {
     position: relative;
